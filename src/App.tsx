@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Git Development setting
+          Git Development setting side
         </a>
       </header>
     </div>
